@@ -1,96 +1,139 @@
 # Hi, I'm Rohan 👋
 
-🚀 Engineer | Builder | AI & Automation Developer  
-🎮 Esports Operations & Technology  
+🚀 Engineer • Builder • Backend Developer
 🏗 Founder @ Tachyel Technologies
+🎮 Esports Infrastructure & Automation Systems
 
-I build systems, tools, and automation that solve real-world problems — from AI models to esports infrastructure and backend platforms.
+I build **automation systems, backend platforms, and scalable web applications** focused on real-world use cases including esports infrastructure, SaaS tools, and developer automation.
 
----
-
-## 🚀 What I'm Currently Working On
-
-- Discord automation systems
-- AI & Machine Learning models
-- Esports infrastructure tools
-- Backend platforms & SaaS tools
-- Developer automation
+My work spans **Discord automation, backend APIs, esports analytics tools, and full-stack platforms.**
 
 ---
 
-## 🧠 Areas of Expertise
+# 🚀 Projects & Platforms I've Built
 
-• Machine Learning  
-• Backend Development  
-• Automation Systems  
-• Discord Bot Development  
-• Data Analysis & Visualization  
-• Computer Vision  
-• Cloud Deployment  
+### 🌐 Web Platforms
+
+• https://tachyel.com
+• https://tech.tachyel.com
+• https://meckon.tachyel.com
+
+• https://aadh.online
+• https://gaoat.store
+• https://essenceandera.com
+
+Each platform includes:
+
+* Full frontend development
+* Admin dashboards
+* Backend integrations
+* Hosting & deployment infrastructure
 
 ---
 
-## 🛠 Tech Stack
+# 🧠 Engineering Focus
+
+### Automation Systems
+
+Discord infrastructure bots, logging systems, notification services, and moderation automation.
+
+### Backend Systems
+
+API systems, admin dashboards, and database-driven platforms.
+
+### Esports Technology
+
+Tools for tournament infrastructure, esports analytics, and team management.
+
+---
+
+# 🛠 Tech Stack
 
 **Languages**
 
-Python • TypeScript • JavaScript • SQL
+Python
+JavaScript
+TypeScript
+SQL
 
-**Frameworks & Libraries**
+**Backend & Infrastructure**
 
-PyTorch  
-TensorFlow  
-Node.js  
-Express  
+Node.js
+Express
+REST APIs
+Linux Servers
+Git
 
-**Tools**
+**Other Tools**
 
-Git  
-Docker  
-Railway  
-Hostinger  
-Linux  
-
-**Other Skills**
-
-Machine Learning  
-Computer Vision  
-API Development  
-System Architecture  
+Railway
+Hostinger
+Cloud Deployment
+Automation Systems
 
 ---
 
-## 📌 Featured Projects
+# 📦 Key Repositories
 
-### 🤖 Discord Automation Bots
-Advanced moderation, automation, reminder systems, and server management tools.
+### 🤖 Discord Automation
 
-### 🧠 Food Health Classification Model
-Machine learning model predicting food healthiness from images using computer vision.
+* Discord-Music-Bot
+* Discord-Support-Bot
+* Invite-Logger
+* Notifier
+* welcomer
 
-### 🎮 Esports Infrastructure Tools
-Systems for managing esports tournaments, team infrastructure, and operational automation.
+These bots handle:
 
-### 📊 Data Analysis & Visualization
-Statistical modeling and data analysis projects focused on ESG and financial metrics.
-
----
-
-## 📈 GitHub Stats
-
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+* moderation automation
+* invite tracking
+* YouTube live notifications
+* music streaming
+* server management
 
 ---
 
-## 🌐 Connect With Me
+### 🎮 Esports Systems
 
-LinkedIn: https://linkedin.com/  
-Email: your@email.com  
+* Valorant-Stats
+* valorant-prod-kit
+* esportsvision-backend
+* DXE
+
+Tools focused on esports analytics, backend systems, and production utilities.
 
 ---
 
-## ⚡ Fun Fact
+### 🌐 Web Platforms
 
-I work at the intersection of **AI, automation, esports, and real-world business systems.**
+* TachyEl
+* Gem.TachyEl
+* Essence-Era
+* GAOAT
+* aadh.online
+
+Projects focused on SaaS infrastructure, admin dashboards, and full-stack platforms.
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohanx04\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohanx04\&layout=compact\&theme=tokyonight)
+
+---
+
+# ⚡ What I'm Currently Building
+
+• Automation platforms
+• Backend infrastructure systems
+• Esports technology tools
+• SaaS platforms & dashboards
+
+---
+
+# 🌍 Connect
+
+GitHub: https://github.com/Rohanx04
+![trophy](https://github-profile-trophy.vercel.app/?username=Rohanx04&theme=darkhub)
