@@ -1,34 +1,40 @@
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Rohan%20|%20Engineer%20%20Builder%20%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=240&section=header&text=Rohan%20%7C%20Systems%20Engineer&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
+<img src="https://komarev.com/ghpvc/?username=Rohanx04&label=Profile%20Views&color=blue&style=flat"/>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Automation+Systems+Engineer;Backend+Infrastructure+Developer;Founder+%40+Tachyel+Technologies;Building+Real+World+Platforms;Esports+Technology+Builder"/>
+</p>
+
+---
+
+# 🧠 Developer Dashboard
+
+| Metric           | Value                          |
+| ---------------- | ------------------------------ |
+| Focus            | Backend Systems & Automation   |
+| Primary Language | Python / JavaScript            |
+| Domains          | SaaS, Esports Tech, Automation |
+| Startup          | Tachyel Technologies           |
+| Platforms Built  | 8+                             |
+| Infrastructure   | Discord Bots + Web Platforms   |
+
+---
+
+# 🚀 Startup Ecosystem
+
+## Tachyel Technologies
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Rohanx04&label=Profile%20Views&color=blue&style=flat"/>
+<img height="70" src="https://cdn-icons-png.flaticon.com/512/2721/2721294.png"/>
 
 </p>
 
----
+Technology startup building **automation platforms and backend systems**.
 
-# 👋 Hi, I'm Rohan
-
-🚀 Engineer | Builder | Backend Developer
-🏗 Founder @ Tachyel Technologies
-🎮 Esports Technology & Automation Systems
-
-I build **automation systems, backend infrastructure, SaaS platforms, and esports technology tools**.
-
-My work focuses on **real-world systems** — not just experiments.
-
----
-
-# 🚀 Startup & Platforms
-
-### 🏢 Tachyel Technologies
-
-Building automation tools, web platforms, and backend infrastructure.
+### Infrastructure Platforms
 
 🌐 https://tachyel.com
 🌐 https://tech.tachyel.com
@@ -36,17 +42,37 @@ Building automation tools, web platforms, and backend infrastructure.
 
 ---
 
-### 🌍 Web Platforms Developed
+# 🌐 Platform Portfolio
 
-🛍 https://gaoat.store
-💎 https://essenceandera.com
-🪪 https://aadh.online
+### Ecommerce Systems
 
-Admin systems included for each platform.
+• https://gaoat.store
+• https://essenceandera.com
+
+Includes:
+
+• admin dashboards
+• backend APIs
+• product management systems
+• deployment infrastructure
 
 ---
 
-# 🛠 Tech Stack
+### Web Platforms
+
+• https://aadh.online
+• Tachyel infrastructure platforms
+
+Each system includes:
+
+• frontend UI
+• backend logic
+• database integrations
+• hosting infrastructure
+
+---
+
+# 🧰 Technology Stack
 
 <p align="center">
 
@@ -56,83 +82,55 @@ Admin systems included for each platform.
 
 ---
 
-# 🧠 Core Engineering Areas
-
-⚡ Backend Systems
-⚡ Automation Infrastructure
-⚡ Discord Bot Development
-⚡ Esports Technology Tools
-⚡ SaaS Platforms
-⚡ Web Platform Development
-
----
-
-# 📦 Featured Projects
-
-### 🤖 Discord Automation Infrastructure
-
-• Discord-Music-Bot
-• Discord-Support-Bot
-• Invite-Logger
-• Notifier
-• welcomer
-
-Automation systems for Discord servers including moderation, notifications, and music services.
-
----
-
-### 🎮 Esports Systems
-
-• Valorant-Stats
-• valorant-prod-kit
-• esportsvision-backend
-• DXE
-
-Backend tools and analytics systems designed for esports infrastructure.
-
----
-
-### 🌐 Web Platforms
-
-• TachyEl
-• Gem.TachyEl
-• Essence-Era
-• GAOAT
-• aadh.online
-
-Full-stack systems with admin dashboards and deployment infrastructure.
-
----
-
-# 📊 GitHub Stats
+# 📦 Interactive Repository Showcase
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rohanx04&show_icons=true&theme=tokyonight"/>
+<a href="https://github.com/Rohanx04/Discord-Support-Bot">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohanx04&repo=Discord-Support-Bot&theme=tokyonight&hide_border=true"/>
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohanx04&layout=compact&theme=tokyonight"/>
+<a href="https://github.com/Rohanx04/Discord-Music-Bot">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohanx04&repo=Discord-Music-Bot&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Rohanx04/Valorant-Stats">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohanx04&repo=Valorant-Stats&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/Rohanx04/Invite-Logger">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohanx04&repo=Invite-Logger&theme=tokyonight&hide_border=true"/>
+</a>
 
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+# 📊 Live Coding Metrics
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rohanx04&theme=darkhub&no-frame=true&margin-w=15"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rohanx04&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohanx04&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 🔥 Coding Streak
 
 <p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Rohanx04&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohanx04&theme=tokyo-night"/>
-
-</p>
 
 ---
 
@@ -146,23 +144,30 @@ Full-stack systems with admin dashboards and deployment infrastructure.
 
 ---
 
-# ⚡ Currently Working On
+# ⚡ Engineering Focus
 
-🚀 Backend infrastructure systems
-🚀 Automation platforms
-🚀 Esports analytics tools
-🚀 SaaS platforms
+### Automation Infrastructure
+
+Discord bots, notification systems, moderation automation.
+
+### Backend Systems
+
+API platforms, admin dashboards, scalable server architecture.
+
+### Esports Technology
+
+Analytics tools, tournament systems, backend production utilities.
 
 ---
 
-# 🌐 Connect With Me
+# 🌍 Connect
 
 GitHub: https://github.com/Rohanx04
 
 ---
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
+
+.github/workflows/snake.yml
