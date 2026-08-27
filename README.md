@@ -1,13 +1,15 @@
 <div align="center">
 
-<img alt="Rohan — Systems Engineer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=240&section=header&text=Rohan%20%7C%20Systems%20Engineer&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Automation%20%E2%80%A2%20Backend%20%E2%80%A2%20Platforms&descSize=16&descAlignY=62"/>
+<img alt="Rohan — Systems Engineer" src="https://raw.githubusercontent.com/Rohanx04/Rohanx04/main/assets/header.svg"/>
+
+<br/>
 
 <img alt="Animated headline" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=900&color=00C2FF&center=true&vCenter=true&width=700&lines=Automation+Systems+Engineer;Backend+Infrastructure+Developer;Founder+%40+Tachyel+Technologies;CRM+%26+SaaS+Platform+Builder;Esports+Technology+Tinkerer"/>
 
 <br/>
 
-<a href="https://github.com/Rohanx04?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/repos-27-00C2FF?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/Rohanx04?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Rohanx04?style=for-the-badge&color=2c5364&labelColor=0f2027"/></a>
+<a href="https://github.com/Rohanx04?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/repos-27-00C2FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0f2027"/></a>
+<a href="https://github.com/Rohanx04?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Rohanx04?style=for-the-badge&color=00C2FF&labelColor=0f2027"/></a>
 <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Rohanx04&label=Profile+Views&color=0f2027&style=for-the-badge"/>
 
 </div>
@@ -16,15 +18,15 @@
 
 ## 🧠 Developer Dashboard
 
-| Metric               | Value                                          |
-| -------------------- | ---------------------------------------------- |
-| 🎯 Focus             | Backend systems, automation & internal tooling  |
-| 🐍 Primary languages | Python · JavaScript · TypeScript                |
-| 🧪 Also shipping in  | PHP (Laravel) · Kotlin · HTML/CSS               |
-| 🌍 Domains           | SaaS, CRM, Ecommerce, Esports tech, Automation  |
-| 🚀 Startup           | Tachyel Technologies                            |
-| 📦 Repositories      | 27 and counting                                 |
-| 🏗️ Infrastructure    | Discord bots · Web platforms · Admin dashboards |
+| Metric               | Value                                           |
+| -------------------- | ----------------------------------------------- |
+| 🎯 Focus             | Backend systems, automation & internal tooling   |
+| 🐍 Primary languages | Python · JavaScript · TypeScript                 |
+| 🧪 Also shipping in  | PHP (Laravel) · Kotlin · HTML/CSS                |
+| 🌍 Domains           | SaaS, CRM, Ecommerce, Esports tech, Automation   |
+| 🚀 Startup           | Tachyel Technologies                             |
+| 📦 Repositories      | 27 and counting                                  |
+| 🏗️ Infrastructure    | Discord bots · Web platforms · Admin dashboards  |
 
 ---
 
@@ -32,15 +34,15 @@
 
 > Snapshot of what has moved most recently. Most of these live in private repos.
 
-| Project            | What it is                                    | Stack        | Status         |
-| ------------------ | --------------------------------------------- | ------------ | -------------- |
-| **Amigo CRM**      | CRM platform — pipelines, admin, automation   | JavaScript   | 🔥 Active       |
-| **aadh.online**    | Web platform + backend services                | HTML / JS    | 🔥 Active       |
-| **Furnishield**    | Product & storefront platform                  | HTML / JS    | 🟢 In progress  |
-| **skill_link**     | Skills / matching platform                     | HTML / JS    | 🟢 In progress  |
-| **TachyEl**        | Startup site + infrastructure platforms        | HTML / JS    | 🟢 In progress  |
-| **RideSync-OS**    | Bike OS — companion app experiment             | Kotlin       | 🧪 Experimental |
-| **laravel-crm**    | CRM rebuild on Laravel                         | PHP          | 🧪 Experimental |
+| Project         | What it is                                   | Stack      | Status         |
+| --------------- | -------------------------------------------- | ---------- | -------------- |
+| **Amigo CRM**   | CRM platform — pipelines, admin, automation  | JavaScript | 🔥 Active       |
+| **aadh.online** | Web platform + backend services              | HTML / JS  | 🔥 Active       |
+| **Furnishield** | Product & storefront platform                | HTML / JS  | 🟢 In progress  |
+| **skill_link**  | Skills / matching platform                   | HTML / JS  | 🟢 In progress  |
+| **TachyEl**     | Startup site + infrastructure platforms      | HTML / JS  | 🟢 In progress  |
+| **RideSync-OS** | Bike OS — companion app experiment           | Kotlin     | 🧪 Experimental |
+| **laravel-crm** | CRM rebuild on Laravel                       | PHP        | 🧪 Experimental |
 
 <details>
 <summary>🗂️ <b>The wider portfolio</b> — click to expand</summary>
@@ -71,12 +73,10 @@ logic, database integration, auth, and hosting infrastructure.
 
 ## 🚀 Tachyel Technologies
 
-<div align="center">
-<img alt="Tachyel Technologies" height="70" src="https://cdn-icons-png.flaticon.com/512/2721/2721294.png"/>
-</div>
-
 Technology startup building **automation platforms and backend systems** —
 turning repetitive operational work into software that runs itself.
+
+`tachyel.com` · `tech.tachyel.com` · `meckon.tachyel.com`
 
 ---
 
@@ -84,7 +84,23 @@ turning repetitive operational work into software that runs itself.
 
 <div align="center">
 
-<img alt="Languages and tools" src="https://skillicons.dev/icons?i=python,js,ts,nodejs,express,php,laravel,kotlin,html,css,mysql,postgres,git,github,linux,docker,vercel&perline=9"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -93,38 +109,28 @@ turning repetitive operational work into software that runs itself.
 
 <br/>
 
-| Layer          | Tools                                              |
-| -------------- | -------------------------------------------------- |
-| Backend        | Python, Node.js, Express, Laravel                   |
-| Automation     | discord.py / discord.js, schedulers, webhooks       |
-| Data           | MySQL, PostgreSQL, SQLite                           |
-| Frontend       | HTML, CSS, JavaScript, TypeScript                   |
-| Mobile         | Kotlin (Android)                                    |
-| Infrastructure | Linux, Docker, Git, Vercel                          |
+| Layer          | Tools                                          |
+| -------------- | ---------------------------------------------- |
+| Backend        | Python, Node.js, Express, Laravel               |
+| Automation     | discord.py / discord.js, schedulers, webhooks   |
+| Data           | MySQL, PostgreSQL, SQLite                       |
+| Frontend       | HTML, CSS, JavaScript, TypeScript               |
+| Mobile         | Kotlin (Android)                                |
+| Infrastructure | Linux, Docker, Git, GitHub Actions              |
 
 </details>
 
 ---
 
-## 📦 Public Repository Showcase
+## 📦 Public Repositories
 
-<div align="center">
-
-<a href="https://github.com/Rohanx04/Dircord-Support-Bot">
-<img alt="Dircord-Support-Bot" src="https://github-readme-stats.vercel.app/api/pin/?username=Rohanx04&repo=Dircord-Support-Bot&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/Rohanx04/Discord-Music-Bot">
-<img alt="Discord-Music-Bot" src="https://github-readme-stats.vercel.app/api/pin/?username=Rohanx04&repo=Discord-Music-Bot&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/Rohanx04/Invite-Logger">
-<img alt="Invite-Logger" src="https://github-readme-stats.vercel.app/api/pin/?username=Rohanx04&repo=Invite-Logger&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/Rohanx04/welcomer">
-<img alt="welcomer" src="https://github-readme-stats.vercel.app/api/pin/?username=Rohanx04&repo=welcomer&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
+| Repository | What it does | Language |
+| ---------- | ------------ | -------- |
+| [**Dircord-Support-Bot**](https://github.com/Rohanx04/Dircord-Support-Bot) | Ticket & support automation for Discord servers | JavaScript |
+| [**Discord-Music-Bot**](https://github.com/Rohanx04/Discord-Music-Bot) | Voice playback, queueing and control commands | Python |
+| [**Invite-Logger**](https://github.com/Rohanx04/Invite-Logger) | Tracks who invited whom, with join/leave auditing | Python |
+| [**welcomer**](https://github.com/Rohanx04/welcomer) | Automated member onboarding and welcome flows | Python |
+| [**BodyCam-RP**](https://github.com/Rohanx04/BodyCam-RP) | Roleplay bodycam overlay resource | HTML |
 
 ---
 
@@ -132,20 +138,11 @@ turning repetitive operational work into software that runs itself.
 
 <div align="center">
 
-<img alt="GitHub stats" height="170em" src="https://github-readme-stats.vercel.app/api?username=Rohanx04&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"/>
-<img alt="Top languages" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohanx04&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img alt="GitHub metrics overview" src="https://raw.githubusercontent.com/Rohanx04/Rohanx04/main/assets/metrics.svg"/>
 
 <br/>
 
-<img alt="Contribution streak" src="https://streak-stats.demolab.com?user=Rohanx04&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Rohanx04&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8"/>
-
-<br/>
-
-<img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Rohanx04&theme=tokyo-night&hide_border=true&area=true"/>
+<img alt="Most used languages" src="https://raw.githubusercontent.com/Rohanx04/Rohanx04/main/assets/metrics.languages.svg"/>
 
 </div>
 
@@ -208,7 +205,7 @@ looks interesting at 2am.
 
 <br/>
 
-```text
+```console
 $ whoami
 rohan — systems engineer, founder @ Tachyel Technologies
 
@@ -240,6 +237,8 @@ more than the tests, fewer than the ideas
 
 <i>⭐ If something here is useful, a star costs nothing and makes my day.</i>
 
-<img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<br/><br/>
+
+<img alt="Thanks for scrolling" src="https://raw.githubusercontent.com/Rohanx04/Rohanx04/main/assets/footer.svg"/>
 
 </div>
