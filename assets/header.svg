@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="900" height="220" role="img" aria-label="Rohan — Systems Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f2027">
+        <animate attributeName="stop-color" values="#0f2027;#16323c;#0f2027" dur="12s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#203a43">
+        <animate attributeName="stop-color" values="#203a43;#2c5364;#203a43" dur="12s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#2c5364">
+        <animate attributeName="stop-color" values="#2c5364;#1b4a5a;#2c5364" dur="12s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00c2ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00c2ff" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#00c2ff" stop-opacity="0"/>
+    </linearGradient>
+
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#7fdbff" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+
+    <clipPath id="clip"><rect width="900" height="220" rx="14"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="900" height="220" fill="url(#bg)"/>
+    <rect width="900" height="220" fill="url(#grid)"/>
+
+    <!-- travelling sheen -->
+    <rect width="300" height="220" fill="url(#sheen)">
+      <animate attributeName="x" values="-300;900" dur="7s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- drifting nodes -->
+    <g fill="#00c2ff">
+      <circle cx="80" cy="40" r="2.5" opacity="0.55">
+        <animate attributeName="cy" values="40;180;40" dur="14s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.55;0.15;0.55" dur="14s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="820" cy="170" r="2" opacity="0.45">
+        <animate attributeName="cy" values="170;50;170" dur="17s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="700" cy="60" r="1.8" opacity="0.4">
+        <animate attributeName="cx" values="700;760;700" dur="11s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="180" cy="185" r="1.6" opacity="0.35">
+        <animate attributeName="cx" values="180;120;180" dur="13s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="480" cy="30" r="1.5" opacity="0.3">
+        <animate attributeName="opacity" values="0.3;0.8;0.3" dur="4s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- accent bar -->
+    <rect x="60" y="62" width="4" height="96" rx="2" fill="#00c2ff">
+      <animate attributeName="height" values="96;40;96" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="62;90;62" dur="5s" repeatCount="indefinite"/>
+    </rect>
+
+    <text x="86" y="98" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+          font-size="42" font-weight="700" fill="#ffffff" letter-spacing="1.5">Rohan</text>
+
+    <text x="86" y="132" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+          font-size="17" fill="#00c2ff" letter-spacing="3.2">SYSTEMS ENGINEER</text>
+
+    <text x="86" y="164" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+          font-size="13.5" fill="#9fb6c4">automation
+      <tspan fill="#4d6b7a"> · </tspan>backend<tspan fill="#4d6b7a"> · </tspan>platforms<tspan fill="#4d6b7a"> · </tspan>esports tech
+    </text>
+
+    <rect x="86" y="176" width="9" height="16" fill="#00c2ff">
+      <animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- prompt glyph, right side -->
+    <text x="838" y="196" text-anchor="end"
+          font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+          font-size="13" fill="#3d5866">~/tachyel $</text>
+
+    <rect x="0" y="216" width="900" height="4" fill="#00c2ff" opacity="0.5"/>
+  </g>
+</svg>
