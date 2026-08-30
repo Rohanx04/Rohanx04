@@ -21,28 +21,32 @@
 | Metric               | Value                                           |
 | -------------------- | ----------------------------------------------- |
 | 🎯 Focus             | Backend systems, automation & internal tooling   |
-| 🐍 Primary languages | Python · JavaScript · TypeScript                 |
-| 🧪 Also shipping in  | PHP (Laravel) · Kotlin · HTML/CSS                |
+| 🐍 Primary languages | HTML · Python · JavaScript                       |
+| 🧪 Also shipping in  | TypeScript · PHP (Laravel) · Kotlin              |
 | 🌍 Domains           | SaaS, CRM, Ecommerce, Esports tech, Automation   |
 | 🚀 Startup           | Tachyel Technologies                             |
-| 📦 Repositories      | 27 and counting                                  |
+| 📦 Repositories      | 27                                               |
+| ⌨️ Commits           | 1,765                                            |
+| 🔁 Pull requests     | 28 opened                                        |
+| 🔥 Best streak       | 18 days · busiest day hit 61 commits             |
 | 🏗️ Infrastructure    | Discord bots · Web platforms · Admin dashboards  |
 
----
+<sub>Activity figures come from the metrics card below, regenerated every 12 hours by GitHub Actions.</sub>
 
 ## 🛠️ Currently Building
 
-> Snapshot of what has moved most recently. Most of these live in private repos.
+> Ordered by most recent activity. Most of these live in private repos.
 
-| Project         | What it is                                   | Stack      | Status         |
-| --------------- | -------------------------------------------- | ---------- | -------------- |
-| **Amigo CRM**   | CRM platform — pipelines, admin, automation  | JavaScript | 🔥 Active       |
-| **aadh.online** | Web platform + backend services              | HTML / JS  | 🔥 Active       |
-| **Furnishield** | Product & storefront platform                | HTML / JS  | 🟢 In progress  |
-| **skill_link**  | Skills / matching platform                   | HTML / JS  | 🟢 In progress  |
-| **TachyEl**     | Startup site + infrastructure platforms      | HTML / JS  | 🟢 In progress  |
-| **RideSync-OS** | Bike OS — companion app experiment           | Kotlin     | 🧪 Experimental |
-| **laravel-crm** | CRM rebuild on Laravel                       | PHP        | 🧪 Experimental |
+| Project           | What it is                                    | Stack      | Status         |
+| ----------------- | --------------------------------------------- | ---------- | -------------- |
+| **aadh.online**   | Web platform + backend services                | HTML / JS  | 🔥 Active       |
+| **Essence & Era** | Storefront + deployment infrastructure         | HTML / JS  | 🔥 Active       |
+| **Amigo CRM**     | CRM platform — pipelines, admin, automation    | JavaScript | 🔥 Active       |
+| **Furnishield**   | Product & storefront platform                  | HTML / JS  | 🟢 In progress  |
+| **skill_link**    | Skills / matching platform                     | HTML / JS  | 🟢 In progress  |
+| **TachyEl**       | Startup site + infrastructure platforms        | HTML / JS  | 🟢 In progress  |
+| **RideSync-OS**   | Bike OS — companion app experiment             | Kotlin     | 🧪 Experimental |
+| **laravel-crm**   | CRM rebuild on Laravel                         | PHP        | 🧪 Experimental |
 
 <details>
 <summary>🗂️ <b>The wider portfolio</b> — click to expand</summary>
@@ -142,7 +146,7 @@ turning repetitive operational work into software that runs itself.
 
 <br/>
 
-<img alt="Most used languages" src="https://raw.githubusercontent.com/Rohanx04/Rohanx04/main/assets/metrics.languages.svg"/>
+<img alt="Repositories by primary language" src="https://raw.githubusercontent.com/Rohanx04/Rohanx04/main/assets/languages.svg"/>
 
 </div>
 
