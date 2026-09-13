@@ -18,35 +18,39 @@
 
 ## 🧠 Developer Dashboard
 
-| Metric               | Value                                           |
-| -------------------- | ----------------------------------------------- |
-| 🎯 Focus             | Backend systems, automation & internal tooling   |
-| 🐍 Primary languages | HTML · Python · JavaScript                       |
-| 🧪 Also shipping in  | TypeScript · PHP (Laravel) · Kotlin              |
-| 🌍 Domains           | SaaS, CRM, Ecommerce, Esports tech, Automation   |
-| 🚀 Startup           | Tachyel Technologies                             |
-| 📦 Repositories      | 27                                               |
-| ⌨️ Commits           | 1,765                                            |
-| 🔁 Pull requests     | 28 opened                                        |
-| 🔥 Best streak       | 18 days · busiest day hit 61 commits             |
-| 🏗️ Infrastructure    | Discord bots · Web platforms · Admin dashboards  |
+| Metric               | Value                                                    |
+| -------------------- | -------------------------------------------------------- |
+| 🎯 Focus             | Backend systems, automation & internal tooling            |
+| 🐍 Primary languages | HTML · JavaScript · Python                                |
+| 🧪 Also shipping in  | TypeScript · PHP (Laravel) · Kotlin                       |
+| 🌍 Domains           | SaaS · CRM · Ecommerce · Community · Esports · Automation |
+| 🚀 Startup           | Tachyel Technologies                                      |
+| 📦 Repositories      | 31                                                        |
+| ⌨️ Commits           | 1,884                                                     |
+| 📈 Commit average    | ~4.8 per day · busiest day hit 61                         |
+| 🔥 Best streak       | 18 days                                                   |
+| 🏗️ Infrastructure    | Discord bots · Web platforms · Admin dashboards           |
 
-<sub>Activity figures come from the metrics card below, regenerated every 12 hours by GitHub Actions.</sub>
+<sub>Activity figures cover a rolling 12-month window and come from the metrics card below, regenerated every 12 hours by GitHub Actions.</sub>
 
 ## 🛠️ Currently Building
 
 > Ordered by most recent activity. Most of these live in private repos.
 
-| Project           | What it is                                    | Stack      | Status         |
-| ----------------- | --------------------------------------------- | ---------- | -------------- |
-| **aadh.online**   | Web platform + backend services                | HTML / JS  | 🔥 Active       |
-| **Essence & Era** | Storefront + deployment infrastructure         | HTML / JS  | 🔥 Active       |
-| **Amigo CRM**     | CRM platform — pipelines, admin, automation    | JavaScript | 🔥 Active       |
-| **Furnishield**   | Product & storefront platform                  | HTML / JS  | 🟢 In progress  |
-| **skill_link**    | Skills / matching platform                     | HTML / JS  | 🟢 In progress  |
-| **TachyEl**       | Startup site + infrastructure platforms        | HTML / JS  | 🟢 In progress  |
-| **RideSync-OS**   | Bike OS — companion app experiment             | Kotlin     | 🧪 Experimental |
-| **laravel-crm**   | CRM rebuild on Laravel                         | PHP        | 🧪 Experimental |
+| Project            | What it is                                       | Stack      | Status         |
+| ------------------ | ------------------------------------------------ | ---------- | -------------- |
+| **job-search**     | The job search that runs on your machine         | JavaScript | 🔥 Active       |
+| **LCF**            | Website & platform for LCF Church                | TypeScript | 🔥 Active       |
+| **Amigo CRM**      | CRM platform — pipelines, admin, automation      | JavaScript | 🔥 Active       |
+| **Essence & Era**  | Storefront + deployment infrastructure           | HTML / JS  | 🟢 In progress  |
+| **Furnishield**    | Product & storefront platform                    | HTML / JS  | 🟢 In progress  |
+| **dev-automobil**  | Automotive web project                           | TypeScript | 🌱 New          |
+| **Atelier**        | Early-stage build                                | JavaScript | 🌱 New          |
+| **aadh.online**    | Web platform + backend services                  | HTML / JS  | 🟢 In progress  |
+| **skill_link**     | Skills / matching platform                       | HTML / JS  | 🟢 In progress  |
+| **TachyEl**        | Startup site + infrastructure platforms          | HTML / JS  | 🟢 In progress  |
+| **RideSync-OS**    | Bike OS — companion app experiment               | Kotlin     | 🧪 Experimental |
+| **laravel-crm**    | CRM rebuild on Laravel                           | PHP        | 🧪 Experimental |
 
 <details>
 <summary>🗂️ <b>The wider portfolio</b> — click to expand</summary>
@@ -185,6 +189,22 @@ to survive real traffic rather than a demo.
 </details>
 
 <details>
+<summary><b>🧑‍💻 Local-first tooling</b></summary>
+
+Tools that run on your own machine instead of someone else's server — job
+hunting, tracking and automation you own end to end.
+
+</details>
+
+<details>
+<summary><b>🤝 Community & client platforms</b></summary>
+
+Websites and platforms for organisations that need something dependable more
+than something clever — churches, storefronts and small teams.
+
+</details>
+
+<details>
 <summary><b>🎮 Esports technology</b></summary>
 
 Analytics tools, tournament systems, and backend production utilities for
@@ -214,7 +234,10 @@ $ whoami
 rohan — systems engineer, founder @ Tachyel Technologies
 
 $ cat current_obsession.txt
-making CRMs that people actually want to open
+local-first tools — software that runs on your machine, not someone else's
+
+$ ls ~/projects | wc -l
+31 (the honest number is "too many")
 
 $ uptime
 online far more than is medically advisable
