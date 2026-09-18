@@ -18,39 +18,60 @@
 
 ## 🧠 Developer Dashboard
 
-| Metric               | Value                                                    |
-| -------------------- | -------------------------------------------------------- |
-| 🎯 Focus             | Backend systems, automation & internal tooling            |
-| 🐍 Primary languages | HTML · JavaScript · Python                                |
-| 🧪 Also shipping in  | TypeScript · PHP (Laravel) · Kotlin                       |
-| 🌍 Domains           | SaaS · CRM · Ecommerce · Community · Esports · Automation |
-| 🚀 Startup           | Tachyel Technologies                                      |
-| 📦 Repositories      | 31                                                        |
-| ⌨️ Commits           | 1,884                                                     |
-| 📈 Commit average    | ~4.8 per day · busiest day hit 61                         |
-| 🔥 Best streak       | 18 days                                                   |
-| 🏗️ Infrastructure    | Discord bots · Web platforms · Admin dashboards           |
+| Metric               | Value                                                          |
+| -------------------- | -------------------------------------------------------------- |
+| 🎯 Focus             | Backend systems, automation, desktop & internal tooling          |
+| 🐍 Primary languages | HTML · JavaScript · Python                                       |
+| 🧪 Also shipping in  | TypeScript · Rust · PHP (Laravel) · Kotlin                       |
+| 🌍 Domains           | SaaS · CRM · Ecommerce · Dev tools · Community · Esports         |
+| 🚀 Startup           | Tachyel Technologies                                             |
+| 📦 Repositories      | 32                                                               |
+| ⌨️ Commits           | 1,940                                                            |
+| 📈 Commit average    | ~5.0 per day · busiest day hit 61                                |
+| 🔥 Best streak       | 18 days                                                          |
+| 🏗️ Infrastructure    | Desktop HUDs · Discord bots · Web platforms · Admin dashboards   |
 
 <sub>Activity figures cover a rolling 12-month window and come from the metrics card below, regenerated every 12 hours by GitHub Actions.</sub>
+
+## 🔦 Featured — CodeNotch
+
+> **[CodeNotch](https://github.com/Rohanx04/CodeNotch)** · Rust + Tauri v2 + React · MIT
+>
+> A lightweight always-on-top HUD for Windows 10/11 that shows how much of each
+> AI coding assistant's usage limit you have burned, when the window resets, and
+> whether a background agent is generating, finished, or **waiting for your
+> approval**. An open-source Windows answer to the macOS original.
+>
+> Watches **Claude Code, Cursor, Codex, GitHub Copilot, Gemini, Perplexity and
+> Ollama** — reading local credential stores and transcripts rather than phoning
+> home. No telemetry, no analytics; the only network calls go to the provider
+> whose quota is being read, or to your own Ollama daemon.
+>
+> The ring is both gauge and activity light: it fills as the limit burns down,
+> a cyan comet rides it while an agent is generating, and it pulses amber when
+> one is blocked on a `[y/N]` prompt.
+
+---
 
 ## 🛠️ Currently Building
 
 > Ordered by most recent activity. Most of these live in private repos.
 
-| Project            | What it is                                       | Stack      | Status         |
-| ------------------ | ------------------------------------------------ | ---------- | -------------- |
-| **job-search**     | The job search that runs on your machine         | JavaScript | 🔥 Active       |
-| **LCF**            | Website & platform for LCF Church                | TypeScript | 🔥 Active       |
-| **Amigo CRM**      | CRM platform — pipelines, admin, automation      | JavaScript | 🔥 Active       |
-| **Essence & Era**  | Storefront + deployment infrastructure           | HTML / JS  | 🟢 In progress  |
-| **Furnishield**    | Product & storefront platform                    | HTML / JS  | 🟢 In progress  |
-| **dev-automobil**  | Automotive web project                           | TypeScript | 🌱 New          |
-| **Atelier**        | Early-stage build                                | JavaScript | 🌱 New          |
-| **aadh.online**    | Web platform + backend services                  | HTML / JS  | 🟢 In progress  |
-| **skill_link**     | Skills / matching platform                       | HTML / JS  | 🟢 In progress  |
-| **TachyEl**        | Startup site + infrastructure platforms          | HTML / JS  | 🟢 In progress  |
-| **RideSync-OS**    | Bike OS — companion app experiment               | Kotlin     | 🧪 Experimental |
-| **laravel-crm**    | CRM rebuild on Laravel                           | PHP        | 🧪 Experimental |
+| Project            | What it is                                                 | Stack           | Status         |
+| ------------------ | ---------------------------------------------------------- | --------------- | -------------- |
+| **job-search**     | AI job application framework on Claude Code — evaluate postings, tailor CVs, write cover letters, prep interviews | JavaScript      | 🔥 Active       |
+| **CodeNotch**      | Always-on-top Windows HUD for AI assistant usage limits     | Rust · Tauri    | 🔥 Active       |
+| **aadh.online**    | Web platform + backend services                             | HTML / JS       | 🔥 Active       |
+| **RideSync-OS**    | Bike OS — companion app                                     | Kotlin          | 🔥 Active       |
+| **Atelier**        | Early-stage build                                           | JavaScript      | 🟢 In progress  |
+| **Amigo CRM**      | CRM platform — pipelines, admin, automation                 | JavaScript      | 🟢 In progress  |
+| **LCF**            | Website & platform for LCF Church                           | TypeScript      | 🟢 In progress  |
+| **Essence & Era**  | Storefront + deployment infrastructure                      | HTML / JS       | 🟢 In progress  |
+| **Furnishield**    | Product & storefront platform                               | HTML / JS       | 🟢 In progress  |
+| **dev-automobil**  | Automotive landing page                                     | TypeScript      | 🌱 New          |
+| **skill_link**     | Skills / matching platform                                  | HTML / JS       | 🟢 In progress  |
+| **TachyEl**        | Startup site + infrastructure platforms                     | HTML / JS       | 🟢 In progress  |
+| **laravel-crm**    | CRM rebuild on Laravel                                      | PHP             | 🧪 Experimental |
 
 <details>
 <summary>🗂️ <b>The wider portfolio</b> — click to expand</summary>
@@ -98,6 +119,10 @@ turning repetitive operational work into software that runs itself.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -122,7 +147,8 @@ turning repetitive operational work into software that runs itself.
 | Backend        | Python, Node.js, Express, Laravel               |
 | Automation     | discord.py / discord.js, schedulers, webhooks   |
 | Data           | MySQL, PostgreSQL, SQLite                       |
-| Frontend       | HTML, CSS, JavaScript, TypeScript               |
+| Frontend       | HTML, CSS, JavaScript, TypeScript, React, Tailwind |
+| Desktop        | Rust, Tauri v2                                  |
 | Mobile         | Kotlin (Android)                                |
 | Infrastructure | Linux, Docker, Git, GitHub Actions              |
 
@@ -134,6 +160,7 @@ turning repetitive operational work into software that runs itself.
 
 | Repository | What it does | Language |
 | ---------- | ------------ | -------- |
+| [**CodeNotch**](https://github.com/Rohanx04/CodeNotch) | Always-on-top Windows HUD tracking AI assistant usage limits | Rust |
 | [**Dircord-Support-Bot**](https://github.com/Rohanx04/Dircord-Support-Bot) | Ticket & support automation for Discord servers | JavaScript |
 | [**Discord-Music-Bot**](https://github.com/Rohanx04/Discord-Music-Bot) | Voice playback, queueing and control commands | Python |
 | [**Invite-Logger**](https://github.com/Rohanx04/Invite-Logger) | Tracks who invited whom, with join/leave auditing | Python |
@@ -192,7 +219,17 @@ to survive real traffic rather than a demo.
 <summary><b>🧑‍💻 Local-first tooling</b></summary>
 
 Tools that run on your own machine instead of someone else's server — job
-hunting, tracking and automation you own end to end.
+hunting, usage tracking and automation you own end to end. No telemetry, no
+accounts, no middleman: read what is already on disk and show it well.
+
+</details>
+
+<details>
+<summary><b>🖥️ Desktop & systems</b></summary>
+
+Native Windows tooling in Rust and Tauri — always-on-top HUDs, DPI-aware edge
+anchoring, and adapters that read local credential stores and transcripts
+without locking the files they belong to.
 
 </details>
 
@@ -237,7 +274,10 @@ $ cat current_obsession.txt
 local-first tools — software that runs on your machine, not someone else's
 
 $ ls ~/projects | wc -l
-31 (the honest number is "too many")
+32 (the honest number is "too many")
+
+$ cat this_week.log
+shipped a Rust HUD that tells me how much AI budget I just set on fire
 
 $ uptime
 online far more than is medically advisable
